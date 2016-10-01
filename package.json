@@ -1,0 +1,25 @@
+{
+  "name": "2016",
+  "version": "1.0.0",
+  "description": "New Project ont",
+  "main": "index.js",
+  "dependencies": {
+    "browser-sync": "^2.17.0",
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twopix/tws.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/twopix/tws/issues"
+  },
+  "homepage": "https://github.com/twopix/tws#readme"
+}
